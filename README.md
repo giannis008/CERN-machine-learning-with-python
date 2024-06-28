@@ -23,10 +23,10 @@ Jupyter is also available through the Anaconda app browser.
 
 Please ensure that you have an up-to-date versions of the following packages installed prior to starting the first session:
 
-scikit-learn
-pandas
-numpy
-matplotlib
+* scikit-learn
+* pandas
+* numpy
+* matplotlib
 
 General installation instructions for scikit-learn are available here:
 https://scikit-learn.org/stable/install.html#installation-instructions
